@@ -21,4 +21,4 @@ Apasionado por construir soluciones web escalables y limpias, aplicando metodolo
 🛠️ Tecnologías que uso:
 `JavaScript` `React.js` `SQL Server/MySQL ` `PHP` `HTML/CSS` `Node.js` `Figma` `GitHub` `Suit Adobe`
 
-📫 [LinkedIn](www.linkedin.com/in/armando-hernandez-a3b7021a9) | [CV](https://link-a-tu-cv.com) | [Portafolio](https://github.com/VALOID3)
+📫 [LinkedIn](www.linkedin.com/in/jose-armando-hernández-santander-a3b7021a9) | [CV](https://link-a-tu-cv.com) | [Portafolio](https://github.com/VALOID3)
