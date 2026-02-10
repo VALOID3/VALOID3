@@ -20,6 +20,6 @@ Apasionado por construir soluciones web escalables y limpias, aplicando metodolo
 - **Calculadora Web**: JavaScript Vanilla + LocalStorage [Calculadora](https://github.com/VALOID3/Project-Calculadora.git)
 
 🛠️ Tecnologías que uso:
-`JavaScript` `React.js` `SQL Server/MySQL ` `PHP` `HTML/CSS` `Node.js` `Figma` `GitHub` `Suit Adobe`
+`C# /.NET` `JavaScript` `React.js` `SQL Server/MySQL ` `PHP` `HTML/CSS` `Node.js` `Figma` `GitHub` `Suit Adobe`
 
 📫 [LinkedIn](www.linkedin.com/in/jose-armando-hernández-santander-a3b7021a9) | [CV](https://link-a-tu-cv.com) | [Portafolio](https://github.com/VALOID3)
