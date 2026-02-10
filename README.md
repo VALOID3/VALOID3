@@ -12,11 +12,11 @@ Apasionado por construir soluciones web escalables y limpias, aplicando metodolo
 📍 Monterrey, Nuevo León | 🧠 Apasionado por el diseño UX/UI, bases de datos y aplicaciones web interactivas
 
 🚀 Proyectos destacados:
-- **WebArt**: SPA en React para comunidad artística [WebArt](https://github.com/VALOID3/WebArt-Platform.git)
-- **Sistema Bibliográfico**: App de escritorio con SQL Server y .NET
-- **Red Social Web**: Full Stack con PHP, MySQL y JS [RedSocial](https://github.com/VALOID3/Chatterbox-Red-Social.git)
-- **UniLive:** Gestión de AFIs UANL. Diseño de Producto UX/UI, Branding y estrategia. [UniLive](https://github.com/VALOID3/UniLive.git)
+- **Sistema Bibliográfico**: App de escritorio con SQL Server y .NET [Biblia](https://github.com/VALOID3/Bible.git)
 - **Sistema de Procesamiento de Imagenes y Videos**: C#, Emgu CV (OpenCV), AForge.NET [Proce_Imagenes](https://github.com/VALOID3/-PIM-Aplicacion-de-Filtro-de-Imagenes.git)
+- - **Red Social Web**: Full Stack con PHP, MySQL y JS [RedSocial](https://github.com/VALOID3/Chatterbox-Red-Social.git)
+- **WebArt**: SPA en React para comunidad artística [WebArt](https://github.com/VALOID3/WebArt-Platform.git)
+- **UniLive:** Gestión de AFIs UANL. Diseño de Producto UX/UI, Branding y estrategia. [UniLive](https://github.com/VALOID3/UniLive.git)
 - **Calculadora Web**: JavaScript Vanilla + LocalStorage [Calculadora](https://github.com/VALOID3/Project-Calculadora.git)
 
 🛠️ Tecnologías que uso:
