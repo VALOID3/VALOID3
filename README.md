@@ -1,5 +1,5 @@
 # VALOID3
-Repositorio de perfil para mostrar mi presentación como desarrollador web y Data Base.
+Repositorio de perfil para mostrar mi presentación como desarrollador software, web y Data Base.
 
 # 👋 ¡Hola! Soy José Armando Hernández Santander
 
