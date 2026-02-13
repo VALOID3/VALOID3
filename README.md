@@ -3,7 +3,7 @@ Repositorio de perfil para mostrar mi presentación como desarrollador software,
 
 # 👋 ¡Hola! Soy José Armando Hernández Santander
 
-Desarrollador de Software Junior con formación en Multimedia y Animación Digital (UANL), especializado en Front-End y bases de datos SQL.  
+Desarrollador de Software Junior con formación en Multimedia y Animación Digital (UANL), especializado en Front-End, backend y bases de datos SQL.  
 Experiencia en desarrollo de interfaces responsivas, integración de APIs REST, y diseño de sistemas completos con enfoque en usabilidad y rendimiento.  
 Apasionado por construir soluciones web escalables y limpias, aplicando metodologías ágiles y buenas prácticas de desarrollo.
 
